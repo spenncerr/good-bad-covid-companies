@@ -17,4 +17,4 @@ layout: default
   {%- endfor -%}
 </ul>
 
-A quick [Eleventy](https://www.11ty.io/) project inspired by [Andy Bell](https://twitter.com/hankchizljaw) with data collected by [Catherine Oliver](https://twitter.com/katiecmoliver/).
+A quick [Eleventy](https://www.11ty.io/) project built by [Spencer Haizel](https://twitter.com/spenncerr) inspired by [Andy Bell](https://twitter.com/hankchizljaw) with data collected by [Catherine Oliver](https://twitter.com/katiecmoliver/).

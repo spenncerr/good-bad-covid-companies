@@ -13,7 +13,7 @@ layout: default
 ### Bad
 <ul class="listing">
   {%- for item in sheet.Bad -%}
-    <li>{{ item.company }} - {{ item.reaction }}</li>
+    <li><strong>{{ item.company }}</strong> - {{ item.reaction }}</li>
   {%- endfor -%}
 </ul>
 
